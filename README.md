@@ -13,6 +13,7 @@ In this project, we will be using negative images downloaded from http://vis-www
 ## Problem Statement
 In recent years, there has been a growing need for accurate and secure facial recognition systems, particularly in the field of biometrics. However, many existing systems struggle to accurately verify a person's identity when only one sample image is available, known as "one-shot" verification. This project aims to address this challenge by developing a deep learning model that can perform one-shot facial verification using a Siamese Neural Network architecture.
 
+
 ## Objectives
 The main objectives of this project are:
 
